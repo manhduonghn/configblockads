@@ -122,3 +122,6 @@ tracking.ad-brix.com = 0.0.0.0
 as.ad-brix.com = 0.0.0.0
 campaign.ad-brix.com = 0.0.0.0
 config.ad-brix.com = 0.0.0.0
+stats.appsflyer.com = 0.0.0.0
+events.appsflyer.com = 0.0.0.0
+t.appsflyer.com = 0.0.0.0
