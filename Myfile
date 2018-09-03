@@ -104,3 +104,10 @@ FINAL,DIRECT
 
 [Host]
 ocsp.apple.com = 0.0.0.0
+ws.tapjoyads.com = 0.0.0.0
+rpc.tapjoy.com = 0.0.0.0
+content.tapjoy.com = 0.0.0.0
+placements.tapjoy.com = 0.0.0.0
+config.unityads.unity3d.com = 0.0.0.0
+live.chartboost.com = 0.0.0.0
+connect.tapjoy.com =0.0.0.0
