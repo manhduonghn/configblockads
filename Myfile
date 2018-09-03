@@ -111,3 +111,6 @@ placements.tapjoy.com = 0.0.0.0
 config.unityads.unity3d.com = 0.0.0.0
 live.chartboost.com = 0.0.0.0
 connect.tapjoy.com =0.0.0.0
+pagead2.googlesyndication.com = 0.0.0.0
+pubads.g.doubleclick.net = 0.0.0.0
+servicelayer.king.com = 0.0.0.0
