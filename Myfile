@@ -22,10 +22,10 @@ hide-udp = true
 use-keyword-filter = false
 
 [Proxy]
-🇻🇳hostsVN = socks5, 127.0.0.1, 443, username, password
+sever = socks5, 127.0.0.1, 443, username, password
 
 [Proxy Group]
-Proxy = select, 🇻🇳hostsVN
+Proxy = select, sever
 
 [Rule]
 DOMAIN-KEYWORD,adclick,REJECT
