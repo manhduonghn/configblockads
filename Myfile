@@ -118,3 +118,7 @@ servicelayer.king.com = 0.0.0.0
 app-measurement.com = 0.0.0.0
 log.adtimaserver.vn = 0.0.0.0
 api.adtimaserver.vn = 0.0.0.0
+tracking.ad-brix.com = 0.0.0.0
+as.ad-brix.com = 0.0.0.0
+campaign.ad-brix.com = 0.0.0.0
+config.ad-brix.com = 0.0.0.0
