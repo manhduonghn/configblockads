@@ -115,3 +115,6 @@ connect.tapjoy.com =0.0.0.0
 pagead2.googlesyndication.com = 0.0.0.0
 pubads.g.doubleclick.net = 0.0.0.0
 servicelayer.king.com = 0.0.0.0
+app-measurement.com = 0.0.0.0
+log.adtimaserver.vn = 0.0.0.0
+api.adtimaserver.vn = 0.0.0.0
