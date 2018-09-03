@@ -125,3 +125,7 @@ config.ad-brix.com = 0.0.0.0
 stats.appsflyer.com = 0.0.0.0
 events.appsflyer.com = 0.0.0.0
 t.appsflyer.com = 0.0.0.0
+googleads.g.doubleclick.net = 0.0.0.0
+admin.appnext.com = 0.0.0.0
+cdn.appnext.com = 0.0.0.0
+global.appnext.com = 0.0.0.0
