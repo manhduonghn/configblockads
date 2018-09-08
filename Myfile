@@ -23,10 +23,10 @@ hide-udp = true
 use-keyword-filter = false
 
 [Proxy]
-sever = socks5, 127.0.0.1, 443, username, password
+sever = socks5, 127.0.0.1, 443, username, password
 
 [Proxy Group]
-Proxy = select, sever
+Proxy = select, sever
 
 [Rule]
 DOMAIN-KEYWORD,adclick,REJECT
@@ -160,4 +160,10 @@ events3alt.adcolony.com = 0.0.0.0
 imp.startappservice.com = 0.0.0.0
 dts.startappservice.com = 0.0.0.0
 req.startappservice.com = 0.0.0.0
+cdnappicons.appsflyer.com = 0.0.0.0
+sg01.rayjump.com = 0.0.0.0
+app.appsflyer.com = 0.0.0.0
+tracking.lenzmx.com = 0.0.0.0
+cdn-adn-https.rayjump.com = 0.0.0.0
+net.rayjump.com = 0.0.0.0
 
