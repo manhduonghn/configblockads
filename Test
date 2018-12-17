@@ -36,7 +36,6 @@ system, 1.1.1.1, 9.9.9.9, 208.67.222.222
 ^https?:\/\/s0\.2mdn\.net\/ads\/
 ^https?:\/\/stats\.tubemogul\.com\/stats\/
 ^https?:\/\/youtubei\.googleapis\.com/.+ad_break
-^https://graph.facebook.com/network_ads_common/
 
 [TCP]
 HOST-KEYWORD,ng-vn-notice.gameitop.com,REJECT
