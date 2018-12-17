@@ -18,7 +18,7 @@ system, 1.1.1.1, 9.9.9.9, 208.67.222.222
 
 
 [URL-REJECTION]
-^https?:\/\/graph.\facebook.\com\/advertiser\/
+^https://graph.facebook.com/v2.10/550976878323026/activities?advertiser
 ^https://graph.nhaccuatui.com/v4/commons/notify-firebase
 ^https://graph.nhaccuatui.com/v4/users/3g-info
 ^https://graph.nhaccuatui.com/v4/advs
