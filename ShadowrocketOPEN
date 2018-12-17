@@ -8,6 +8,8 @@ loglevel = notify
 🇻🇳NETWORK = socks5, 0.0.0.0, 443, username, password
 
 [Rule]
+DOMAIN-KEYWORD,ng-vn-notice.gameitop.com,REJECT
+DOMAIN-KEYWORD,gstatic,REJECT
 DOMAIN-KEYWORD,mpay.nct.vn,REJECT
 DOMAIN-KEYWORD,metrics.cloudflarebolt.com,REJECT
 DOMAIN-KEYWORD,api.branch.io,REJECT
