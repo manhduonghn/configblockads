@@ -1,0 +1,40 @@
+{
+  "inbounds" : [
+    {
+      "streamSettings" : {
+
+      },
+      "protocol" : "http",
+      "port" : 1087,
+      "listen" : "127.0.0.1",
+      "settings" : {
+        "allowTransparent" : true
+      }
+    }
+  ],
+  "policy" : {
+    "levels" : {
+      "0" : {
+        "uplinkOnly" : 0,
+        "handshake" : 4,
+        "connIdle" : 120,
+        "downlinkOnly" : 0
+      }
+    }
+  },
+  "outbounds" : [
+    {
+      "tag" : "direct",
+      "protocol" : "freedom",
+      "streamSettings" : {
+
+      },
+      "settings" : {
+        "domainStrategy" : "UseIP"
+      }
+    }
+  ],
+  "log" : {
+    "loglevel" : "none"
+  }
+}
