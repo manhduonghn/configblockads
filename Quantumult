@@ -1,6 +1,6 @@
 [SERVER]
 
 [SOURCE]
-Rule, filter, https://raw.githubusercontent.com/manhduonghn/configblockads/master/Quantumult, true
+Rule, filter, https://raw.githubusercontent.com/manhduonghn/configblockads/master/Quantumult-Rule, true
 Rejection, blacklist, https://raw.githubusercontent.com/manhduonghn/configblockads/master/Quantumult-rejection, true
 FBRejection, blacklist, https://raw.githubusercontent.com/manhduonghn/configblockads/master/Quantumult-fbrejection, true
