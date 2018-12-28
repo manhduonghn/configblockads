@@ -1,5 +1,5 @@
 [SERVER]
-
+🇻🇳NetWork = socks5, upstream-proxy-address=127.0.0.1, upstream-proxy-port=443, upstream-proxy-auth=false, over-tls=false, certificate=1
 [SOURCE]
 
 [BACKUP-SERVER]
