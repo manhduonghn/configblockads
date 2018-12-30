@@ -10,6 +10,7 @@ loglevel = notify
 
 
 [Rule]
+DOMAIN-KEYWORD,apps.mzstatic.com,REJECT
 DOMAIN-KEYWORD,onetad.com,REJECT
 DOMAIN-KEYWORD,banner1,REJECT
 DOMAIN-KEYWORD,ng-vn-notice.gameitop.com,REJECT
