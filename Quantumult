@@ -17,6 +17,7 @@ FBRejection, blacklist, https://raw.githubusercontent.com/manhduonghn/configbloc
 [URL-REJECTION]
 
 [TCP]
+HOST-KEYWORD,mideasvn.com,REJECT
 HOST-KEYWORD,onetad.com,REJECT
 HOST-KEYWORD,banner1,REJECT
 HOST-KEYWORD,ng-vn-notice.gameitop.com,REJECT
