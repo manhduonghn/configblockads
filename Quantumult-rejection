@@ -45,6 +45,8 @@
 
 ^https?://spclient.wg.spotify.com/ad-logic/*
 ^https?://spclient.wg.spotify.com/ads/*
+^https?://spclient.wg.spotify.com/.+doubleclick.net
+^https?://spclient.wg.spotify.com/.+promoted_offer
 
 [MITM]
 hostname = graph.nhaccuatui.com,*.youtube.com,*.googlevideo.com,*.googleapis.com,*.qq.com,*.tiktokv.com,*.musical.ly,spclient.wg.spotify.com,*.googlesyndication.com,*.tubemogul.com
