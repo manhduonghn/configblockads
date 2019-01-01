@@ -17,6 +17,7 @@ FBRejection, blacklist, https://raw.githubusercontent.com/manhduonghn/configbloc
 [URL-REJECTION]
 
 [TCP]
+HOST-KEYWORD,heads-ak-spotify-com.akamaized.net,REJECT
 HOST-KEYWORD,mideasvn.com,REJECT
 HOST-KEYWORD,onetad.com,REJECT
 HOST-KEYWORD,banner1,REJECT
