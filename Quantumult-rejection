@@ -5,7 +5,9 @@
 ^https?://graph.nhaccuatui.com/v4/logs/*
 ^https://graph.nhaccuatui.com/v4/commons/notify-firebase
 ^https://graph.nhaccuatui.com/v4/users/3g-info
-^https://graph.nhaccuatui.com/v4/advs
+^https://graph.nhaccuatui.com/v4/adv
+^https?://avatar-nct.nixcdn.com/.+popup
+^https?://graph.nhaccuatui.com/.+deviceinfo
 
 //Youtube
 
@@ -47,6 +49,11 @@
 ^https?://spclient.wg.spotify.com/ads/*
 ^https?://spclient.wg.spotify.com/.+doubleclick.net
 ^https?://spclient.wg.spotify.com/.+promoted_offer
+
+//zalo
+^https?://qos-zdn.zaloapp.com/.+trackqos
+^https?://centralized.zaloapp.com/.+tracking
+
 
 [MITM]
 hostname = graph.nhaccuatui.com,*.youtube.com,*.googlevideo.com,*.googleapis.com,*.qq.com,*.tiktokv.com,*.musical.ly,spclient.wg.spotify.com,*.googlesyndication.com,*.tubemogul.com
