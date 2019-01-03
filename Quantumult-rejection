@@ -57,5 +57,4 @@
 
 
 [MITM]
-hostname = graph.nhaccuatui.com,*.youtube.com,*.googlevideo.com,*.googleapis.com,*.qq.com,*.tiktokv.com,
-*.musical.ly,spclient.wg.spotify.com,avatar-nct.nixcdn.com,*.zaloapp.com
+hostname = graph.nhaccuatui.com,*.youtube.com,*.googlevideo.com,*.googleapis.com,*.qq.com,*.tiktokv.com,*.musical.ly,spclient.wg.spotify.com,avatar-nct.nixcdn.com,*.zaloapp.com
