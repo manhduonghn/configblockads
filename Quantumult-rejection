@@ -45,6 +45,7 @@
 
 //spotify
 
+^https://spclient.wg.spotify.com/quicksilver/v2/triggers
 ^https?://spclient.wg.spotify.com/ad-logic/*
 ^https?://spclient.wg.spotify.com/ads/*
 ^https?://spclient.wg.spotify.com/.+doubleclick.net
@@ -56,4 +57,13 @@
 
 
 [MITM]
-hostname = graph.nhaccuatui.com,*.youtube.com,*.googlevideo.com,*.googleapis.com,*.qq.com,*.tiktokv.com,*.musical.ly,spclient.wg.spotify.com,avatar-nct.nixcdn.com,*.zaloapp.com
+hostname = graph.nhaccuatui.com,
+*.youtube.com,
+*.googlevideo.com,
+*.googleapis.com,
+*.qq.com,
+*.tiktokv.com,
+*.musical.ly,
+spclient.wg.spotify.com,
+avatar-nct.nixcdn.com,
+*.zaloapp.com
